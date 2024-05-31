@@ -1,6 +1,7 @@
 {
   "name": "docs",
   "version": "0.0.0",
+  "type": "module",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -20,6 +21,7 @@
     "@docusaurus/theme-mermaid": "^3.0.0",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^1.2.1",
+    "langchain": "^0.2.4",
     "prism-react-renderer": "^2.1.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
